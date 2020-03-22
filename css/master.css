@@ -1,0 +1,21 @@
+@import "reset.css";
+
+body {
+  background: #000;
+}
+#timer {
+  font-family: Jazz Gothic;
+  font-style: normal;
+  font-size: 160px;
+  color: #fff;
+  letter-spacing: -1px;
+}
+#timer span {
+  font-size: 160px;
+  color: #fff;
+  margin: 0 0px 0 -34px;
+  letter-spacing: -2px;
+}
+#timer span:first-child {
+  margin-left: 0;
+}
